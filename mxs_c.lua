@@ -1,4 +1,5 @@
---[[ --// id = 0 --compacts
+--[[ --// Discord : MIXAS#1234
+id = 0 --compacts
 id = 1 --sedans
 id = 2 --SUV's
 id = 3 --coupes
